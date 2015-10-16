@@ -1,0 +1,12 @@
+# Site settings
+title: Big Brothers Big Sisters
+email: johnandersenpdx@gmail.com
+description: >
+  We are building a social network for the
+  Big Brothers Big Sisters orginization.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bbbs.github.io" # the base hostname & protocol for your site
+github_username:  bbbs
+
+# Build settings
+markdown: kramdown
